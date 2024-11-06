@@ -1,5 +1,5 @@
 # 👋 Hello, it's ValFortD
-- I am interested in game development and is learning cpp with raylib.
+- Learning cpp because why not.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play games almost every night!
 
