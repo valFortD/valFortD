@@ -1,7 +1,7 @@
-# 👋 Hello, it's ValFortD
+# Hello.
 - Learning cpp because why not.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I play games almost every night!
+- Pronouns: she/her
+- Fun fact: I play games almost every night!
 
 <!---
 valFortD/valFortD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
