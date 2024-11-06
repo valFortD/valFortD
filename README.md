@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ValFortD
+# 👋 Hello, it's ValFortD
 - I am interested in game development and is learning cpp with raylib.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play games almost every night!
