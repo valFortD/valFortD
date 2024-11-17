@@ -1,5 +1,5 @@
 # Hello.
-- Learning cpp because am interested in gaming development.
+- Learning cpp because I am interested in gaming development.
 - Pronouns: she/her
 - Fun fact: I play Fortnite almost every night!
 
