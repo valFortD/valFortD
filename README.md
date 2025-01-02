@@ -1,7 +1,6 @@
 # Hello.
-- Learning cpp because I am interested in gaming development.
 - Pronouns: she/her
-- Fun fact: I play Fortnite almost every night!
+- Fun fact: I play games almost every night!
 
 <!---
 valFortD/valFortD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
