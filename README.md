@@ -1,6 +1,6 @@
 # Hello.
 - Pronouns: she/her
-- Fun fact: I play games almost every night!
+- Fun fact: I play games.
 
 <!---
 valFortD/valFortD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
